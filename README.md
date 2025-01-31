@@ -1,7 +1,6 @@
 ![logo](https://github.com/AkankshaPandey97/AkankshaPandey97/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
 <h3 align="center">👋 I'm a Software Engineer specializing in Data Engineering and MLOps, currently pursuing MS in Information Systems at Northeastern University, with expertise in building scalable data pipelines and ML solutions.</h3>
-<img align="right" alt="coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU2YmRwZDN2MHpiZGRoeGp2OHF2Nnpub281cjV4aGFrOGZ1aGo0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshapandey97&label=Profile%20views&color=0e75b6&style=flat" alt="akankshapandey97" /> </p>
 
 
